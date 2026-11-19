@@ -1,2 +1,0 @@
-[console_scripts]
-rgb-depth = rgb_depth_prediction.model:main
